@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+pip3 install 'Flask-SQLAlchemy<3' psycopg2 sqlalchemy==1.4.46![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Felipe Silva,
 
